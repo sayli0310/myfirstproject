@@ -1,0 +1,21 @@
+# Compiled binaries (Windows)
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+# Compiled binaries (Mac/Linux)
+week1_test
+week2_test
+week3_test
+week4_test
+llm_engine
+benchmark
+
+# OS clutter
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
